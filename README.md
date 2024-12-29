@@ -1,5 +1,5 @@
 # datacamp_introtopython
-Documentation of Course Introduction to Python
+Documentation of Course Introduction to Python from DataCamp
 With four Topics, namely:
 1. Python Basics
 2. Python Lists
